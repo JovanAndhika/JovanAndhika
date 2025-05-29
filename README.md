@@ -16,7 +16,7 @@
 ![https://www.instagram.com/andh_jov/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jovan-andhika-19356a2b6/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ##### My projects:
-Vibe music player: https://vibe-ten-eta.vercel.app/
-Battle of Minds 2024: https://battle-of-minds-2024.vercel.app/
-GYB Catholic Church: https://parokigyb.or.id/
+- Vibe music player: https://vibe-ten-eta.vercel.app/
+- Battle of Minds 2024: https://battle-of-minds-2024.vercel.app/
+- GYB Catholic Church: https://parokigyb.or.id/
 
