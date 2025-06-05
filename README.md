@@ -11,15 +11,14 @@ I'am an Information System enthusiast with practical experience in implementing 
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,mysql,java&theme=light)](https://skillicons.dev)
 
-
-### Let's Connect
-![https://www.instagram.com/andh_jov/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jovan-andhika-19356a2b6/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ### Group projects:
 - Vibe music player: https://vibe-ten-eta.vercel.app/
 - Simple Delivery: https://simple-delivery-pi.vercel.app/
 - Battle of Minds 2024: https://battle-of-minds-2024.vercel.app/
 - GYB Catholic Church: https://parokigyb.or.id/
+
+### Let's Connect
+![https://www.instagram.com/andh_jov/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jovan-andhika-19356a2b6/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!-- Contributions -->
 ![](https://devimg.vercel.app/github/languages/JovanAndhika)
