@@ -1,6 +1,7 @@
 ![Jovan Andhika](img/BannerProfile.png)
 
-- 🔭 I’m currently learning at Petra Christian University
+### 🔭 About Me
+I'am an Information System enthusiast with practical experience in implementing Odoo ERP and developing web applications using Laravel and PHP. I'm deeply passionate about the startup ecosystem and dedicated to solving real-world business problems through technology. My background includes proven participation in team-based IT projects, consistently delivering scalable web solutions.
 - 📫 Feel free to reach me: jovandhika@gmail.com
 - ⚡ Fun fact: Everyday is a new challenge
 
@@ -11,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel,mysql,java&theme=light)](https://skillicons.dev)
 
 
-##### Let's Connect
+### Let's Connect
 ![https://www.instagram.com/andh_jov/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/jovan-andhika-19356a2b6/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Group projects:
