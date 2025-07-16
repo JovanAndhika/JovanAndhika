@@ -13,7 +13,6 @@ I'am an Information System enthusiast with practical experience in implementing 
 
 ### Group projects:
 - Vibe music player: https://vibe-ten-eta.vercel.app/
-- Simple Delivery: https://simple-delivery-pi.vercel.app/
 - Battle of Minds 2024: https://battle-of-minds-2024.vercel.app/
 - GYB Catholic Church: https://parokigyb.or.id/
 
